@@ -1,0 +1,15 @@
+{
+	"name": "theme-jeoc",
+	"version": "0.1.0",
+	"publisher": "jeoc",
+	"engines": { "vscode": "*" },
+	"contributes": {
+		"themes": [
+			{
+				"label": "jeoc",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Jeoc.tmTheme"
+			}
+		]
+	}
+}
