@@ -1,0 +1,13 @@
+// Place your settings in this file to overwrite the default settings
+{
+    // "editor.fontFamily":  "'Source Code Pro Light', Consolas, 'Courier New', monospace",
+    "editor.fontFamily": "'Envy Code R', Consolas",	
+    "editor.fontSize": 13,
+    "editor.codeLens": false,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.renderLineHighlight": "gutter",
+    "workbench.colorTheme": "jeoc",
+    "workbench.sideBar.location": "right",
+    "editor.renderWhitespace": "none"
+}
